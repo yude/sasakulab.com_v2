@@ -22,7 +22,7 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="17.021739"
-     inkscape:cx="45.970626"
+     inkscape:cx="45.941252"
      inkscape:cy="16.00894"
      inkscape:window-width="1860"
      inkscape:window-height="1043"
@@ -48,5 +48,5 @@
      d="M46 1h45l-45 30l-45 -30h45"
      class="bg"
      id="path4"
-     style="stroke:none" />
+     style="stroke:none;fill:#ffffff" />
 </svg>
