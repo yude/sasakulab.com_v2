@@ -99,8 +99,14 @@ h1 {
     margin-top: 18px;
     margin-bottom: 18px;
 
+    padding: unset;
+
     line-height: 52px;
     text-align: center;
+}
+
+.buttons>* {
+    display: unset;
 }
 
 .btn {
