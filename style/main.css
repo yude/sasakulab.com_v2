@@ -17,6 +17,7 @@ h1 {
     overflow: hidden;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 
     width: calc(100% - 3%);
     height: calc(100%);
@@ -368,6 +369,18 @@ h1 {
 
 .profile > p {
     text-align: center;
+}
+
+.status > .back {
+    width: 100vw;
+    height: 50vh;
+    overflow: hidden;
+
+    background-image: url(/assets/nature.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 footer {
